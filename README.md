@@ -15,7 +15,7 @@
  **🎓 I completed both my Secondary and Senior Secondary from St. Luke's Senior Secondary School**
 
 <h2 align="center"> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;🔗Connect with me:</h2>
-<p align="center">
+<p align="center"> &emsp;
 <a href="https://linkedin.com/in/ishan-gupta-962a07285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishan-gupta-962a07285" height="30" width="40" /></a>
 <a href="https://instagram.com/ishangupta294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ishangupta294" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ishangupta26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ishangupta26" height="30" width="40" /></a>
